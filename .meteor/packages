@@ -7,3 +7,9 @@
 meteor-platform
 autopublish
 insecure
+d3js:d3
+momentjs:moment
+fortawesome:fontawesome
+less
+iron:router
+nemo64:bootstrap
